@@ -1,0 +1,130 @@
+@font-face {
+  font-family: 'Fire';
+  src: url('../fonts/plastic.TTF') format('opentype');
+}
+
+.lovesci-text {
+  position: absolute;
+  color: white;
+  font-size: 1rem;
+  font-family: 'Times New Roman', serif;
+  width: 500px;
+  line-height: 1.4;
+  text-align: left;
+  top: 30px;
+  left: 750px;
+  background-color: rgb(95, 10, 10);
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 0; /* optional */
+}
+
+.citation {
+  margin-top: 20px;
+  font-style: italic;
+}
+
+
+  .title-text {
+    position: absolute;
+    color: rgb(95, 10, 10);
+    font-size: 2.2rem;
+    width: 700px;
+    line-height: 1.4;
+    text-align: left;
+    top: -130px;
+    left: 30px;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  .stars-page {
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    color: white;
+    padding: 2rem;
+    position: relative;
+  }
+
+.sun1-image,
+.sun2-image,
+.sun3-image,
+.sun4-image,
+.sun5-image {
+  position: absolute;
+  width: 100px;
+  height: auto;
+  z-index: 10;
+}
+
+.sun-stack {
+  position: absolute;
+  top: 20%;
+  left: 2%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fire-font {
+  font-family: 'Fire', sans-serif;
+}
+
+.fire-images {
+  position: relative; /* this anchors child image positions */
+  width: 100%;
+  height: 100%;
+}
+
+/* First fire image - smaller and top right */
+.fire-image-1 {
+  position: absolute;
+  top: 300px;
+  right: 370px;
+  width: 200px;
+  height: auto;
+}
+
+/* Second fire image - larger and lower */
+.fire-image-2 {
+  position: absolute;
+  top: 270px;
+  left: 1050px;
+  width: 150px;
+  height: auto;
+}
+
+
+.sun-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.sun-day {
+  font-family: 'Times New Roman', serif;
+  font-size: 1.4rem;
+  color: rgb(133, 0, 0);
+  width: 40px;
+  text-align: right;
+  font-weight: bold;
+}
+
+.sun-image {
+  width: 70px;
+  height: auto;
+}
+
+.therm-image {
+  width: 300px; /* or different sizes if needed */
+  height: auto;
+}
+
+.temp-text {
+  font-family: 'Times New Roman', serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: rgb(133, 0, 0);
+  margin-left: 8px;
+}

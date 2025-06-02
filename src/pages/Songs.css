@@ -1,0 +1,89 @@
+.songs-page {
+    background-image: url('../assets/songbackground.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    color: white; /* optional */
+    padding: 2rem;
+  }
+  
+  .songs-page {
+    position: relative;
+    padding: 2rem;
+  }
+  
+  /* Container for the speech bubble and its text */
+  
+  
+  /* The speech bubble image */
+  .speech-bubble {
+    background-image: url('../assets/songbubble.PNG'); /* replace with real path */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 320px;  /* match your image size */
+    height: 260px;
+    position: relative;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    padding: 30px 40px 50px 40px; /* adjust to avoid overlapping the tail */
+    box-sizing: border-box;
+  }
+  
+  .bubble-text {
+    font-size: 0.95rem;
+    color: black;
+    text-align: center;
+    line-height: 1.4;
+  }
+  
+  
+  
+  /* The piano image */
+  .piano-image {
+    position: absolute;
+    bottom: 250px;
+    left: 50px;
+    width: 200px; /* Adjust as needed */
+  }
+  
+  .spotify-image {
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    width: 400px;
+  }
+
+  .lyrics {
+    position: absolute;
+    top: 50px;
+    left: 860px;
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+  }
+  
+  .keyboard-image {
+    position: absolute;
+    top: 400px;
+    left: 400px;
+    width: 400px;
+  }
+
+  .alive-image {
+    position: absolute;
+    top: 250px;
+    left: 850px;
+    width: 400px;
+  }
+
+  .silence-image {
+    position: absolute;
+    top: 470px;
+    left: 80px;
+    width: 250px;
+  }

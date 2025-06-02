@@ -1,0 +1,38 @@
+/* checklist.css */
+
+.checklist {
+    padding: 2rem;
+    max-width: 400px;
+    margin: auto;
+    background-color: transparent;
+    color: white;
+    font-family: 'Figtree', sans-serif;
+    z-index: 20;
+    top: 550px;
+    left: 75px;
+    position: absolute;
+  }
+  
+  .checklist h2 {
+    text-align: left;
+    margin-bottom: 1rem;
+  }
+  
+  .checklist ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .checklist li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .checklist input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    accent-color: pink;
+  }
+  

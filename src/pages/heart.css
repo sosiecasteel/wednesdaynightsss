@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'Valty';
+  src: url('../fonts/Valty.otf') format('opentype');
+}
+
+
+.heart-page {
+  background-image: url('../assets/starry.jpg'); /* match exact file name */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  color: white;
+  padding: 2rem;
+  position: relative;
+}
+
+
+.chesssketch-image {
+  width: 500px;
+  height: auto;
+  position: absolute;
+  top: 200px;
+  left: 500px;
+}
+.chess-container {
+  position: relative;
+  width: fit-content;
+}
+
+.chess-text {
+  position: absolute;
+  color: white;
+  font-size: 1.2rem;
+  font-family: 'Times New Roman', serif;
+  width: 300px;
+  line-height: 1.4;
+  text-align: left;
+  font-weight: bold;
+}
+
+
+/* Position examples - you can adjust these */
+.top-left {
+  top: 170px;
+  left: 460px;
+  max-width: 300px;
+}
+
+.center-left {
+  top: 350px;
+  left: 920px;
+}
+
+.top-right {
+  top: 190px;
+  left: 775px;
+}
+
+.brothers-riddle-body {
+  color: white;
+  background-color: transparent;
+  max-width: 400px;
+  padding: 20px;
+  position: relative;
+  z-index: 5;
+}
+
+.brothers-riddle-body h1,
+.brothers-riddle-body h2,
+.brothers-riddle-body h3 {
+  font-size: 1.9rem;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.riddle-step {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

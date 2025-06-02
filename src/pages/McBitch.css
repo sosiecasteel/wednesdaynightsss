@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'WednesdayNights';
+    src: url('../fonts/DJB\ It\'s\ Full\ of\ Stars.ttf') format('truetype');
+  }
+
+.menu-container {
+    color: white;
+    max-width: 600px;
+    margin: 4rem auto;
+    padding: 2rem;
+    font-family: 'WednesdayNights', sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+  }
+  
+  .menu-container h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: left;
+    border-bottom: 1px solid #444;
+    padding-bottom: 0.5rem;
+  }
+  
+  .menu-section {
+    margin-bottom: 2rem;
+  }
+  
+  .menu-section h2 {
+    font-size: 1.3rem;
+    color: #ffefb3;
+    margin-bottom: 0.5rem;
+  }
+  
+  .menu-section ul {
+    list-style: disc;
+    margin-left: 1.5rem;
+    line-height: 1.6;
+  }
+
+  .bec-image{
+    width: 75px;
+    left: 800px;
+    top: 445px;
+    position: absolute;
+  }
+
+  .bb1-image{
+    width: 60px;
+    left: 800px;
+    top: 500px;
+    position: absolute;
+  }
+
+  .bb2-image{
+    width: 100px;
+    left: 800px;
+    top: 790px;
+    position: absolute;
+    z-index: 20;
+  }
+
+  .cheesyknot-image{
+    width: 100px;
+    left: 800px;
+    top: 520px;
+    position: absolute;
+  }
+
+  .coffeehearts-image{
+    width: 80px;
+    left: 800px;
+    top: 650px;
+    position: absolute;
+  }
+
+  .frieddumplings-image{
+    width: 80px;
+    left: 800px;
+    top: 650px;
+    position: absolute;
+
+  }
+  
+  .fruitplate-image{
+    width: 80px;
+    left: 800px;
+    top: 650px;
+    position: absolute;
+  }
+
+  .italydinner-image{
+    width: 80px;
+    left: 800px;
+    top: 650px;
+    position: absolute;
+  }
+
+  .potrigatoni-image{
+    width: 80px;
+    left: 800px;
+    top: 700px;
+    position: absolute;
+  }
+
+  .ragu-image{
+    width: 80px;
+    left: 800px;
+    top: 620px;
+    position: absolute;
+  }

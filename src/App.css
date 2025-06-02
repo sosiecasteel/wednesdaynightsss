@@ -1,0 +1,226 @@
+/* App.css */
+/* Apply your custom font */
+@font-face {
+  font-family: 'WednesdayNights';
+  src: url('./fonts/DJB\ It\'s\ Full\ of\ Stars.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'May2025';
+  src: url('./fonts/star.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'stupid';
+  src: url('./fonts/Donaire.ttf') format('truetype');
+}
+
+
+
+/* Top section with stars background */
+.top-section {
+  background-image: url('./assets/multicolorstarscape.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  height: 200px;
+}
+
+
+/* Title styling */
+.site-title {
+  font-family: 'WednesdayNights', sans-serif;
+  font-size: 2.8rem;
+  color: white;
+  text-decoration: none; /* removes underline */
+}
+
+
+/* Right-aligned, close-together nav links */
+.nav-links-slim {
+  display: flex;
+  gap: 15px;
+}
+
+.nav-links-slim a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.7rem;
+}
+
+.nav-links-slim a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+  .content {
+    padding: 2rem;
+    text-align: left;
+  }
+  
+  .logo img {
+    height: 50px; /* Adjust as needed */
+    cursor: pointer;
+  }
+  
+  
+  
+  /* Main Page Styles */
+  .main-page {
+    background-image: url('./assets/multicolorstarscape.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  
+  .main-content {
+    display: flex;
+    flex-direction: row; /* Arrange children side-by-side */
+    gap: 20px; /* Space between the image and text */
+    align-items: center; /* Align items vertically */
+  }
+  
+  .main-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1500px;
+    height: auto;
+    z-index: 0; /* Put this behind everything else */
+  }
+  
+  
+  .moon-image {
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    z-index: 10; /* Above background */
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+    }
+  
+    .cloud1-image {
+      position: absolute;
+      top: 330px;
+      left: 250px;
+      z-index: 15; /* Above background */
+      width: 200px;
+      height: auto;
+      border-radius: 50%;
+      }
+
+    .cloud2-image {
+      position: absolute;
+      top: 460px;
+      left: 60px;
+      z-index: 20; /* Above background */
+      width: 200px;
+      height: auto;
+      border-radius: 50%;
+      }
+  
+  
+  
+  
+  .text-container {
+    max-width: 250px; /* Limit the width of the text */
+    background-color: rgb(211, 222, 222);
+    font-family: 'Figtree', sans-serif;
+    top: 250px;
+    left: 475px;
+    position: absolute;
+    border-radius: 0px;
+    padding: 10px;
+    margin: 0 auto;
+  }
+  
+  .text-container h1 {
+    font-size: 1rem; /* Adjust title size */
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  .text-container p {
+    font-size: 1rem; /* Adjust paragraph size */
+    line-height: 1.6; /* Improve readability */
+    color: rgb(0, 0, 0);
+  }
+  
+  .logo-text {
+    font-family: 'WednesdayNights', sans-serif;
+    font-size: 2.5rem; /* or whatever size fits your design */
+    color: white; /* or any color you prefer */
+  }
+  
+  .stars-page {
+    background-image: url('./assets/crayonstars.jpg'); /* or any image you want */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    color: white; /* optional */
+    padding: 2rem;
+  }
+
+  .yawning-moon-image {
+    position: absolute;
+    top: 545px;
+    left: 650px;
+    z-index: 10; /* Above background */
+    width: 125px;
+    height: auto;
+    border-radius: 50%;
+    }
+
+    .calendar-text-container {
+      font-family: 'May2025', sans-serif;
+      font-size: 2rem;
+      color: white;
+      position: absolute;
+      top: 275px;
+      left: 795px;
+      z-index: 15;
+    }
+
+    .may-calendar {
+      position: absolute;
+      top: 300px;
+      left: 760px;
+      width: 500px
+    }
+    
+    .nownownow-image {
+      position: absolute;
+      top: 610px;
+      left: 1000px;
+      z-index: 20; /* Above background */
+      width: 45px;
+      height: auto;
+      }
+
+      .speech-container {
+        position: absolute;
+        top: 230px;
+        left: 760px;
+        font-family: 'stupid', sans-serif;
+        color: white;
+      }

@@ -1,0 +1,124 @@
+body {
+    background: none; /* override any App-wide background */
+  }
+  
+  .notes-text {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    color: #fffefe;
+    padding: 10px 20px;
+    border-radius: 12px;
+    max-width: fit-content;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-weight: bold;
+  }
+
+  .floatinggirl-image {
+    position: absolute;
+    top: 300px;
+    left: 900px;
+    width: 200px;
+  }
+
+  .floatingcat-image {
+    position: absolute;
+    top: 370px;
+    left: 850px;
+    width: 200px;
+  }
+
+  .girlymoon-image {
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    width: 200px;
+  }
+  
+  .random-text{
+    position: absolute;
+    top: 550px;
+    left: 850px;
+    background-color:rgb(246, 226, 176);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+    border-left: 10px;
+    border-right: 10px;
+
+  }
+  .crossword-wrapper {
+    display: flex;
+    flex-direction: row; /* row to align puzzle and clues side-by-side */
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+    flex-wrap: wrap;
+    background-color: transparent;
+  }
+  
+  .crossword {
+    transform: scale(0.75); 
+    transform-origin: top left;
+    background-color: transparent;
+    min-width: 300px; /* prevent collapse */
+  }
+  
+  .crossword .grid {
+    background-color: transparent !important;
+  }
+  
+  .crossword .cell {
+    background-color: white;
+    border: 1.5px solid #ccc;
+    color: white;
+  }
+  
+  .crossword .cell.focused {
+    background-color: #c900ed;
+  }
+  
+  .crossword .clues {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    max-width: 300px;
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+  }
+  
+  .crossword .clue {
+    margin-bottom: 12px;
+  }
+  
+  .crossword svg {
+    background-color: transparent !important;
+  }
+  
+  .crossword rect {
+    fill: transparent !important;
+    stroke: white !important; /* sets the border color */
+    stroke-width: 1px
+  }
+  
+  .crossword .cell text {
+    visibility: visible;
+    display: block;
+    fill: rgb(244, 34, 149) !important;
+    font-size: 10px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  
+  .crossword svg > rect:first-child {
+    stroke: none !important;
+    fill: none !important;
+  }
+  
+  .crossword .cell > text:first-of-type {
+    fill: white !important; /* makes the number white */
+    font-size: 9px !important;
+    font-family: Arial, sans-serif !important;
+  }
+  
