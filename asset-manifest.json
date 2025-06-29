@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.92dd89bf.css",
-    "main.js": "/static/js/main.0dacacdd.js",
+    "main.css": "/static/css/main.1f352040.css",
+    "main.js": "/static/js/main.d4efaf4f.js",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
     "static/media/fire1.jpg": "/static/media/fire1.a1a34abee3505f4f5dd0.jpg",
+    "static/media/nevadacitylogo.png": "/static/media/nevadacitylogo.5486131d8f471c476ffb.png",
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
     "static/media/starbluenomoon.png": "/static/media/starbluenomoon.78e3a60a945c1d658552.png",
     "static/media/rabbits.PNG": "/static/media/rabbits.2a6f11b5632b3c95bc1f.PNG",
@@ -35,9 +36,9 @@
     "static/media/fruitplate.JPG": "/static/media/fruitplate.0ad1968c887842034d77.JPG",
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
+    "static/media/gothicmoonscape.jpg": "/static/media/gothicmoonscape.be0da1390bb28d09e1d0.jpg",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
-    "static/media/starry.jpg": "/static/media/starry.d0584f0c31ac714b4731.jpg",
     "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
@@ -52,11 +53,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.92dd89bf.css.map": "/static/css/main.92dd89bf.css.map",
-    "main.0dacacdd.js.map": "/static/js/main.0dacacdd.js.map"
+    "main.1f352040.css.map": "/static/css/main.1f352040.css.map",
+    "main.d4efaf4f.js.map": "/static/js/main.d4efaf4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.92dd89bf.css",
-    "static/js/main.0dacacdd.js"
+    "static/css/main.1f352040.css",
+    "static/js/main.d4efaf4f.js"
   ]
 }
