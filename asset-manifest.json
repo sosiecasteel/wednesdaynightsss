@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9dea66d.css",
-    "main.js": "/static/js/main.d6e03b11.js",
+    "main.css": "/static/css/main.92dd89bf.css",
+    "main.js": "/static/js/main.0dacacdd.js",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
     "static/media/fire1.jpg": "/static/media/fire1.a1a34abee3505f4f5dd0.jpg",
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
@@ -19,9 +19,13 @@
     "static/media/songbackground.jpg": "/static/media/songbackground.afa0b321f366ef0c88ce.jpg",
     "static/media/stayalive.JPG": "/static/media/stayalive.109fabaef2f198a14e75.JPG",
     "static/media/ragu.JPG": "/static/media/ragu.978f8ffd673cbd5d5709.JPG",
+    "static/media/75degrees.png": "/static/media/75degrees.39379eaadca317f46179.png",
     "static/media/potrigatoni.JPG": "/static/media/potrigatoni.719141cb82a64366e65a.JPG",
+    "static/media/80degrees.png": "/static/media/80degrees.2d901b666949e9f669c3.png",
     "static/media/articlesarticlesarticles.jpg": "/static/media/articlesarticlesarticles.1b128f37c60f579bcb18.jpg",
     "static/media/cheesygarlicknot.JPG": "/static/media/cheesygarlicknot.09c4e4f57ab8b6c317a6.JPG",
+    "static/media/90degrees.png": "/static/media/90degrees.c3e2a6150468efd480b2.png",
+    "static/media/85degrees.png": "/static/media/85degrees.03e77d28649481dccbc2.png",
     "static/media/coffeewithhearts.JPG": "/static/media/coffeewithhearts.196441cbad702cf6882a.JPG",
     "static/media/chesssketch.PNG": "/static/media/chesssketch.6125165cec4cc8576e2f.PNG",
     "static/media/bec.JPG": "/static/media/bec.9fca81eeea7be75f7aca.JPG",
@@ -31,7 +35,6 @@
     "static/media/fruitplate.JPG": "/static/media/fruitplate.0ad1968c887842034d77.JPG",
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
-    "static/media/85degrees.png": "/static/media/85degrees.3fe53b80694c53e78469.png",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
     "static/media/starry.jpg": "/static/media/starry.d0584f0c31ac714b4731.jpg",
@@ -49,11 +52,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.c9dea66d.css.map": "/static/css/main.c9dea66d.css.map",
-    "main.d6e03b11.js.map": "/static/js/main.d6e03b11.js.map"
+    "main.92dd89bf.css.map": "/static/css/main.92dd89bf.css.map",
+    "main.0dacacdd.js.map": "/static/js/main.0dacacdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9dea66d.css",
-    "static/js/main.d6e03b11.js"
+    "static/css/main.92dd89bf.css",
+    "static/js/main.0dacacdd.js"
   ]
 }
