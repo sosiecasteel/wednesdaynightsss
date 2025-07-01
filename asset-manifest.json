@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f352040.css",
-    "main.js": "/static/js/main.d4efaf4f.js",
+    "main.css": "/static/css/main.079c491d.css",
+    "main.js": "/static/js/main.e5d2a14d.js",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
     "static/media/fire1.jpg": "/static/media/fire1.a1a34abee3505f4f5dd0.jpg",
     "static/media/nevadacitylogo.png": "/static/media/nevadacitylogo.5486131d8f471c476ffb.png",
@@ -9,7 +9,7 @@
     "static/media/starbluenomoon.png": "/static/media/starbluenomoon.78e3a60a945c1d658552.png",
     "static/media/rabbits.PNG": "/static/media/rabbits.2a6f11b5632b3c95bc1f.PNG",
     "static/media/crayonstars.jpg": "/static/media/crayonstars.9c919a236b977b697f91.jpg",
-    "static/media/spotify.png": "/static/media/spotify.4dec3417d4dcf086a616.png",
+    "static/media/july2025playlist.png": "/static/media/july2025playlist.4aaa80ac38f1459c6728.png",
     "static/media/girlymoon.png": "/static/media/girlymoon.604b8d892fb4cc038c0a.png",
     "static/media/italydinner.JPG": "/static/media/italydinner.138f75500ed9686c9e2c.JPG",
     "static/media/floatinggirl.png": "/static/media/floatinggirl.8e8dc5de4348303912b8.png",
@@ -53,11 +53,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.1f352040.css.map": "/static/css/main.1f352040.css.map",
-    "main.d4efaf4f.js.map": "/static/js/main.d4efaf4f.js.map"
+    "main.079c491d.css.map": "/static/css/main.079c491d.css.map",
+    "main.e5d2a14d.js.map": "/static/js/main.e5d2a14d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f352040.css",
-    "static/js/main.d4efaf4f.js"
+    "static/css/main.079c491d.css",
+    "static/js/main.e5d2a14d.js"
   ]
 }
