@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.079c491d.css",
-    "main.js": "/static/js/main.e5d2a14d.js",
+    "main.css": "/static/css/main.9213d092.css",
+    "main.js": "/static/js/main.edca25fa.js",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
     "static/media/fire1.jpg": "/static/media/fire1.a1a34abee3505f4f5dd0.jpg",
     "static/media/nevadacitylogo.png": "/static/media/nevadacitylogo.5486131d8f471c476ffb.png",
@@ -53,11 +53,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.079c491d.css.map": "/static/css/main.079c491d.css.map",
-    "main.e5d2a14d.js.map": "/static/js/main.e5d2a14d.js.map"
+    "main.9213d092.css.map": "/static/css/main.9213d092.css.map",
+    "main.edca25fa.js.map": "/static/js/main.edca25fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.079c491d.css",
-    "static/js/main.e5d2a14d.js"
+    "static/css/main.9213d092.css",
+    "static/js/main.edca25fa.js"
   ]
 }
