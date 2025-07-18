@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1aee6aab.css",
-    "main.js": "/static/js/main.dc0c2685.js",
+    "main.css": "/static/css/main.cc0b03ce.css",
+    "main.js": "/static/js/main.fd86f8b0.js",
     "static/media/cityblockoutline.png": "/static/media/cityblockoutline.ccc10ba2d43484c09ce3.png",
     "static/media/notoreaders.png": "/static/media/notoreaders.9278c3d4c9dbeb96f799.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
@@ -13,36 +13,27 @@
     "static/media/moonbeenhit.png": "/static/media/moonbeenhit.2b2c8729d36570928e2e.png",
     "static/media/crayonstars.jpg": "/static/media/crayonstars.9c919a236b977b697f91.jpg",
     "static/media/girlymoon.png": "/static/media/girlymoon.604b8d892fb4cc038c0a.png",
-    "static/media/italydinner.JPG": "/static/media/italydinner.138f75500ed9686c9e2c.JPG",
     "static/media/kissingmoon.png": "/static/media/kissingmoon.6ad7e17aaa3801cb73c8.png",
     "static/media/floatinggirl.png": "/static/media/floatinggirl.8e8dc5de4348303912b8.png",
     "static/media/watercolormoon.png": "/static/media/watercolormoon.e25fbfe1e9c7cebb5cb7.png",
     "static/media/cartoonwitch.png": "/static/media/cartoonwitch.1f64028f48b08caecc87.png",
     "static/media/moonlitnights.mp3": "/static/media/moonlitnights.a15b112cd8ac557a8bfe.mp3",
-    "static/media/frieddumplings.JPG": "/static/media/frieddumplings.5a6ebf1f7d0c0ee9caab.JPG",
-    "static/media/breadbutter2.JPG": "/static/media/breadbutter2.368c316bdc2a73ab70f6.JPG",
     "static/media/floatingcat.png": "/static/media/floatingcat.bed3c0bd87b6391ad18d.png",
     "static/media/sparklystars.jpeg": "/static/media/sparklystars.e4b807d3a63296e39956.jpeg",
     "static/media/indigostars.jpg": "/static/media/indigostars.83566ab24ae55f6324ec.jpg",
     "static/media/stringlightmoon.png": "/static/media/stringlightmoon.070e0eb36d1ad5359a36.png",
     "static/media/songbackground.jpg": "/static/media/songbackground.afa0b321f366ef0c88ce.jpg",
-    "static/media/ragu.JPG": "/static/media/ragu.978f8ffd673cbd5d5709.JPG",
+    "static/media/dunkalatte.png": "/static/media/dunkalatte.7f5dcf70347d0d1879d2.png",
     "static/media/75degrees.png": "/static/media/75degrees.39379eaadca317f46179.png",
-    "static/media/potrigatoni.JPG": "/static/media/potrigatoni.719141cb82a64366e65a.JPG",
     "static/media/80degrees.png": "/static/media/80degrees.2d901b666949e9f669c3.png",
     "static/media/articlesarticlesarticles.jpg": "/static/media/articlesarticlesarticles.1b128f37c60f579bcb18.jpg",
-    "static/media/cheesygarlicknot.JPG": "/static/media/cheesygarlicknot.09c4e4f57ab8b6c317a6.JPG",
     "static/media/90degrees.png": "/static/media/90degrees.c3e2a6150468efd480b2.png",
     "static/media/85degrees.png": "/static/media/85degrees.03e77d28649481dccbc2.png",
-    "static/media/coffeewithhearts.JPG": "/static/media/coffeewithhearts.196441cbad702cf6882a.JPG",
     "static/media/cartiwannagotopluto.png": "/static/media/cartiwannagotopluto.9f15895a4442e8a9a7fa.png",
     "static/media/skintyfia.jpeg": "/static/media/skintyfia.4b82bf014d47dc644855.jpeg",
     "static/media/confettistars.jpg": "/static/media/confettistars.f90d8577589bfebc3159.jpg",
-    "static/media/bec.JPG": "/static/media/bec.9fca81eeea7be75f7aca.JPG",
-    "static/media/breadbutter1.JPG": "/static/media/breadbutter1.c5f413881aa60e1264f3.JPG",
     "static/media/mistersun.png": "/static/media/mistersun.dcef1af42050ef12e678.png",
     "static/media/keyboard.JPG": "/static/media/keyboard.ce5edeac18ec0af88a18.JPG",
-    "static/media/fruitplate.JPG": "/static/media/fruitplate.0ad1968c887842034d77.JPG",
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
@@ -62,11 +53,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.1aee6aab.css.map": "/static/css/main.1aee6aab.css.map",
-    "main.dc0c2685.js.map": "/static/js/main.dc0c2685.js.map"
+    "main.cc0b03ce.css.map": "/static/css/main.cc0b03ce.css.map",
+    "main.fd86f8b0.js.map": "/static/js/main.fd86f8b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aee6aab.css",
-    "static/js/main.dc0c2685.js"
+    "static/css/main.cc0b03ce.css",
+    "static/js/main.fd86f8b0.js"
   ]
 }
