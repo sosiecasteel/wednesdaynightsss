@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e84a464e.css",
-    "main.js": "/static/js/main.fd86f8b0.js",
+    "main.css": "/static/css/main.81fcabc7.css",
+    "main.js": "/static/js/main.6c95b88e.js",
     "static/media/cityblockoutline.png": "/static/media/cityblockoutline.ccc10ba2d43484c09ce3.png",
     "static/media/notoreaders.png": "/static/media/notoreaders.9278c3d4c9dbeb96f799.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
@@ -24,6 +24,7 @@
     "static/media/stringlightmoon.png": "/static/media/stringlightmoon.070e0eb36d1ad5359a36.png",
     "static/media/songbackground.jpg": "/static/media/songbackground.afa0b321f366ef0c88ce.jpg",
     "static/media/dunkalatte.png": "/static/media/dunkalatte.7f5dcf70347d0d1879d2.png",
+    "static/media/constellations.jpeg": "/static/media/constellations.76e7db266782de705952.jpeg",
     "static/media/75degrees.png": "/static/media/75degrees.39379eaadca317f46179.png",
     "static/media/80degrees.png": "/static/media/80degrees.2d901b666949e9f669c3.png",
     "static/media/articlesarticlesarticles.jpg": "/static/media/articlesarticlesarticles.1b128f37c60f579bcb18.jpg",
@@ -37,6 +38,7 @@
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
+    "static/media/strikeoutmethod.png": "/static/media/strikeoutmethod.921e44e19aeb23c2a6dd.png",
     "static/media/lyricsexplained.png": "/static/media/lyricsexplained.65dd3f6f3e2c6c440e0d.png",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
     "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
@@ -53,11 +55,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.e84a464e.css.map": "/static/css/main.e84a464e.css.map",
-    "main.fd86f8b0.js.map": "/static/js/main.fd86f8b0.js.map"
+    "main.81fcabc7.css.map": "/static/css/main.81fcabc7.css.map",
+    "main.6c95b88e.js.map": "/static/js/main.6c95b88e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e84a464e.css",
-    "static/js/main.fd86f8b0.js"
+    "static/css/main.81fcabc7.css",
+    "static/js/main.6c95b88e.js"
   ]
 }
