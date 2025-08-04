@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d47567f.css",
-    "main.js": "/static/js/main.d58370cb.js",
+    "main.css": "/static/css/main.020b9988.css",
+    "main.js": "/static/js/main.708c896a.js",
     "static/media/cityblockoutline.png": "/static/media/cityblockoutline.ccc10ba2d43484c09ce3.png",
     "static/media/notoreaders.png": "/static/media/notoreaders.9278c3d4c9dbeb96f799.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
@@ -10,6 +10,7 @@
     "static/media/nevadacitylogo.png": "/static/media/nevadacitylogo.5486131d8f471c476ffb.png",
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
     "static/media/starbluenomoon.png": "/static/media/starbluenomoon.78e3a60a945c1d658552.png",
+    "static/media/caterpillarpumpkin.png": "/static/media/caterpillarpumpkin.6c903219f6d629c66604.png",
     "static/media/rabbits.PNG": "/static/media/rabbits.2a6f11b5632b3c95bc1f.PNG",
     "static/media/moonbeenhit.png": "/static/media/moonbeenhit.2b2c8729d36570928e2e.png",
     "static/media/crayonstars.jpg": "/static/media/crayonstars.9c919a236b977b697f91.jpg",
@@ -47,7 +48,7 @@
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
     "static/media/star.ttf": "/static/media/star.8462d4f41a91fd367fb3.ttf",
-    "static/media/julycalendar white.png": "/static/media/julycalendar white.592dc6b49aada8fc0350.png",
+    "static/media/august.png": "/static/media/august.761eff61201cf22d9b7e.png",
     "static/media/DJB It's Full of Stars.ttf": "/static/media/DJB It's Full of Stars.5a3f996620b2729f2b0d.ttf",
     "static/media/lonelyhouse.jpeg": "/static/media/lonelyhouse.075f5d714fa121c0b35a.jpeg",
     "static/media/cloud1.PNG": "/static/media/cloud1.fba7801dc863d4a1837d.PNG",
@@ -56,11 +57,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.0d47567f.css.map": "/static/css/main.0d47567f.css.map",
-    "main.d58370cb.js.map": "/static/js/main.d58370cb.js.map"
+    "main.020b9988.css.map": "/static/css/main.020b9988.css.map",
+    "main.708c896a.js.map": "/static/js/main.708c896a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d47567f.css",
-    "static/js/main.d58370cb.js"
+    "static/css/main.020b9988.css",
+    "static/js/main.708c896a.js"
   ]
 }
