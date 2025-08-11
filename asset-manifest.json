@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.020b9988.css",
-    "main.js": "/static/js/main.708c896a.js",
+    "main.css": "/static/css/main.d2e73dec.css",
+    "main.js": "/static/js/main.369bc018.js",
     "static/media/cityblockoutline.png": "/static/media/cityblockoutline.ccc10ba2d43484c09ce3.png",
     "static/media/notoreaders.png": "/static/media/notoreaders.9278c3d4c9dbeb96f799.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
@@ -41,13 +41,13 @@
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
     "static/media/iwannarockyourbody.png": "/static/media/iwannarockyourbody.20191619dc147a876bec.png",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
-    "static/media/strikeoutmethod.png": "/static/media/strikeoutmethod.921e44e19aeb23c2a6dd.png",
     "static/media/itstenpm.png": "/static/media/itstenpm.2a07f75992ee45c3b3c1.png",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
     "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
     "static/media/star.ttf": "/static/media/star.8462d4f41a91fd367fb3.ttf",
+    "static/media/jonasfreeman.png": "/static/media/jonasfreeman.196218f84f19923f9d4b.png",
     "static/media/august.png": "/static/media/august.761eff61201cf22d9b7e.png",
     "static/media/DJB It's Full of Stars.ttf": "/static/media/DJB It's Full of Stars.5a3f996620b2729f2b0d.ttf",
     "static/media/lonelyhouse.jpeg": "/static/media/lonelyhouse.075f5d714fa121c0b35a.jpeg",
@@ -57,11 +57,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.020b9988.css.map": "/static/css/main.020b9988.css.map",
-    "main.708c896a.js.map": "/static/js/main.708c896a.js.map"
+    "main.d2e73dec.css.map": "/static/css/main.d2e73dec.css.map",
+    "main.369bc018.js.map": "/static/js/main.369bc018.js.map"
   },
   "entrypoints": [
-    "static/css/main.020b9988.css",
-    "static/js/main.708c896a.js"
+    "static/css/main.d2e73dec.css",
+    "static/js/main.369bc018.js"
   ]
 }
