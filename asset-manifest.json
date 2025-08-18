@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.50048f0a.css",
-    "main.js": "/static/js/main.33c2840e.js",
+    "main.css": "/static/css/main.f2c73cda.css",
+    "main.js": "/static/js/main.5b3afda0.js",
     "static/media/cityblockoutline.png": "/static/media/cityblockoutline.ccc10ba2d43484c09ce3.png",
     "static/media/notoreaders.png": "/static/media/notoreaders.9278c3d4c9dbeb96f799.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
@@ -11,6 +11,7 @@
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
     "static/media/starbluenomoon.png": "/static/media/starbluenomoon.78e3a60a945c1d658552.png",
     "static/media/caterpillarpumpkin.png": "/static/media/caterpillarpumpkin.6c903219f6d629c66604.png",
+    "static/media/huntsharvest.jpg": "/static/media/huntsharvest.b12bfe40e7fc3c5a76af.jpg",
     "static/media/shawtyinlove.mp3": "/static/media/shawtyinlove.ab88fb70378ad758476e.mp3",
     "static/media/rabbits.PNG": "/static/media/rabbits.2a6f11b5632b3c95bc1f.PNG",
     "static/media/moonbeenhit.png": "/static/media/moonbeenhit.2b2c8729d36570928e2e.png",
@@ -28,6 +29,8 @@
     "static/media/songbackground.jpg": "/static/media/songbackground.afa0b321f366ef0c88ce.jpg",
     "static/media/dunkalatte.png": "/static/media/dunkalatte.7f5dcf70347d0d1879d2.png",
     "static/media/constellations.jpeg": "/static/media/constellations.76e7db266782de705952.jpeg",
+    "static/media/greenstars.jpg": "/static/media/greenstars.f796b145b0779b0f199a.jpg",
+    "static/media/purplestars.jpeg": "/static/media/purplestars.4bc5bacf337a94bcec40.jpeg",
     "static/media/75degrees.png": "/static/media/75degrees.39379eaadca317f46179.png",
     "static/media/section80.jpg": "/static/media/section80.c400f34cb6b9ec81b134.jpg",
     "static/media/80degrees.png": "/static/media/80degrees.2d901b666949e9f669c3.png",
@@ -35,7 +38,6 @@
     "static/media/90degrees.png": "/static/media/90degrees.c3e2a6150468efd480b2.png",
     "static/media/85degrees.png": "/static/media/85degrees.03e77d28649481dccbc2.png",
     "static/media/cartiwannagotopluto.png": "/static/media/cartiwannagotopluto.9f15895a4442e8a9a7fa.png",
-    "static/media/confettistars.jpg": "/static/media/confettistars.f90d8577589bfebc3159.jpg",
     "static/media/shawty.jpg": "/static/media/shawty.0f7e86ad8e66f35779d5.jpg",
     "static/media/mistersun.png": "/static/media/mistersun.dcef1af42050ef12e678.png",
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
@@ -54,14 +56,15 @@
     "static/media/lonelyhouse.jpeg": "/static/media/lonelyhouse.075f5d714fa121c0b35a.jpeg",
     "static/media/cloud1.PNG": "/static/media/cloud1.fba7801dc863d4a1837d.PNG",
     "static/media/moonbright1.JPEG": "/static/media/moonbright1.ebe762e3bb980691c5b7.JPEG",
+    "static/media/WizardryNight.ttf": "/static/media/WizardryNight.1af99d3c24dc57241c96.ttf",
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.50048f0a.css.map": "/static/css/main.50048f0a.css.map",
-    "main.33c2840e.js.map": "/static/js/main.33c2840e.js.map"
+    "main.f2c73cda.css.map": "/static/css/main.f2c73cda.css.map",
+    "main.5b3afda0.js.map": "/static/js/main.5b3afda0.js.map"
   },
   "entrypoints": [
-    "static/css/main.50048f0a.css",
-    "static/js/main.33c2840e.js"
+    "static/css/main.f2c73cda.css",
+    "static/js/main.5b3afda0.js"
   ]
 }
