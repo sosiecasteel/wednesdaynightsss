@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.8baa1789.css",
-    "main.js": "/static/js/main.5b3afda0.js",
+    "main.css": "/static/css/main.320f321c.css",
+    "main.js": "/static/js/main.6be06e08.js",
+    "static/media/septembertrans.png": "/static/media/septembertrans.0a47397b568d4725a4f6.png",
     "static/media/cityblockoutline.png": "/static/media/cityblockoutline.ccc10ba2d43484c09ce3.png",
-    "static/media/notoreaders.png": "/static/media/notoreaders.9278c3d4c9dbeb96f799.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
     "static/media/pureheroine.png": "/static/media/pureheroine.a9f8f98f33efe02850ff.png",
     "static/media/fire1.jpg": "/static/media/fire1.a1a34abee3505f4f5dd0.jpg",
@@ -27,10 +27,10 @@
     "static/media/indigostars.jpg": "/static/media/indigostars.83566ab24ae55f6324ec.jpg",
     "static/media/stringlightmoon.png": "/static/media/stringlightmoon.070e0eb36d1ad5359a36.png",
     "static/media/songbackground.jpg": "/static/media/songbackground.afa0b321f366ef0c88ce.jpg",
-    "static/media/dunkalatte.png": "/static/media/dunkalatte.7f5dcf70347d0d1879d2.png",
     "static/media/constellations.jpeg": "/static/media/constellations.76e7db266782de705952.jpeg",
     "static/media/greenstars.jpg": "/static/media/greenstars.f796b145b0779b0f199a.jpg",
     "static/media/purplestars.jpeg": "/static/media/purplestars.4bc5bacf337a94bcec40.jpeg",
+    "static/media/nailpolish.png": "/static/media/nailpolish.8f32c1afe42756fa4942.png",
     "static/media/75degrees.png": "/static/media/75degrees.39379eaadca317f46179.png",
     "static/media/section80.jpg": "/static/media/section80.c400f34cb6b9ec81b134.jpg",
     "static/media/80degrees.png": "/static/media/80degrees.2d901b666949e9f669c3.png",
@@ -51,7 +51,7 @@
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
     "static/media/star.ttf": "/static/media/star.8462d4f41a91fd367fb3.ttf",
     "static/media/jonasfreeman.png": "/static/media/jonasfreeman.196218f84f19923f9d4b.png",
-    "static/media/august.png": "/static/media/august.761eff61201cf22d9b7e.png",
+    "static/media/septembercalendar.png": "/static/media/septembercalendar.9dcb700f3ed0dc5445fc.png",
     "static/media/DJB It's Full of Stars.ttf": "/static/media/DJB It's Full of Stars.5a3f996620b2729f2b0d.ttf",
     "static/media/lonelyhouse.jpeg": "/static/media/lonelyhouse.075f5d714fa121c0b35a.jpeg",
     "static/media/cloud1.PNG": "/static/media/cloud1.fba7801dc863d4a1837d.PNG",
@@ -60,11 +60,11 @@
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.8baa1789.css.map": "/static/css/main.8baa1789.css.map",
-    "main.5b3afda0.js.map": "/static/js/main.5b3afda0.js.map"
+    "main.320f321c.css.map": "/static/css/main.320f321c.css.map",
+    "main.6be06e08.js.map": "/static/js/main.6be06e08.js.map"
   },
   "entrypoints": [
-    "static/css/main.8baa1789.css",
-    "static/js/main.5b3afda0.js"
+    "static/css/main.320f321c.css",
+    "static/js/main.6be06e08.js"
   ]
 }
