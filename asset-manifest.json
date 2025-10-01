@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.073d35a3.css",
-    "main.js": "/static/js/main.6945a31b.js",
-    "static/media/ellahgelber.png": "/static/media/ellahgelber.7bbb746f686156392b1f.png",
+    "main.css": "/static/css/main.e4fa6081.css",
+    "main.js": "/static/js/main.d48c5fec.js",
     "static/media/septembertrans.png": "/static/media/septembertrans.0a47397b568d4725a4f6.png",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/cityblockoutline.png": "/static/media/cityblockoutline.ccc10ba2d43484c09ce3.png",
@@ -12,6 +11,7 @@
     "static/media/nevadacitylogo.png": "/static/media/nevadacitylogo.5486131d8f471c476ffb.png",
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
     "static/media/starbluenomoon.png": "/static/media/starbluenomoon.78e3a60a945c1d658552.png",
+    "static/media/pumpkins.png": "/static/media/pumpkins.00c29e89864cc8b0f919.png",
     "static/media/caterpillarpumpkin.png": "/static/media/caterpillarpumpkin.6c903219f6d629c66604.png",
     "static/media/huntsharvest.jpg": "/static/media/huntsharvest.b12bfe40e7fc3c5a76af.jpg",
     "static/media/shawtyinlove.mp3": "/static/media/shawtyinlove.ab88fb70378ad758476e.mp3",
@@ -53,20 +53,22 @@
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
     "static/media/star.ttf": "/static/media/star.8462d4f41a91fd367fb3.ttf",
     "static/media/jonasfreeman.png": "/static/media/jonasfreeman.196218f84f19923f9d4b.png",
-    "static/media/septembercalendar.png": "/static/media/septembercalendar.9dcb700f3ed0dc5445fc.png",
+    "static/media/octobercalendar.png": "/static/media/octobercalendar.f9774ce88f1a445099b2.png",
     "static/media/DJB It's Full of Stars.ttf": "/static/media/DJB It's Full of Stars.5a3f996620b2729f2b0d.ttf",
     "static/media/lonelyhouse.jpeg": "/static/media/lonelyhouse.075f5d714fa121c0b35a.jpeg",
     "static/media/cloud1.PNG": "/static/media/cloud1.fba7801dc863d4a1837d.PNG",
     "static/media/moonbright1.JPEG": "/static/media/moonbright1.ebe762e3bb980691c5b7.JPEG",
     "static/media/WizardryNight.ttf": "/static/media/WizardryNight.1af99d3c24dc57241c96.ttf",
     "static/media/cloud2.PNG": "/static/media/cloud2.8968473014352990b167.PNG",
+    "static/media/caffestrada.jpeg": "/static/media/caffestrada.a96157f04ef5ac634e6b.jpeg",
+    "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.073d35a3.css.map": "/static/css/main.073d35a3.css.map",
-    "main.6945a31b.js.map": "/static/js/main.6945a31b.js.map"
+    "main.e4fa6081.css.map": "/static/css/main.e4fa6081.css.map",
+    "main.d48c5fec.js.map": "/static/js/main.d48c5fec.js.map"
   },
   "entrypoints": [
-    "static/css/main.073d35a3.css",
-    "static/js/main.6945a31b.js"
+    "static/css/main.e4fa6081.css",
+    "static/js/main.d48c5fec.js"
   ]
 }
