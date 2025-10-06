@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f27d487a.css",
-    "main.js": "/static/js/main.42716dca.js",
+    "main.css": "/static/css/main.12a0dce6.css",
+    "main.js": "/static/js/main.b82699c3.js",
     "static/media/septembertrans.png": "/static/media/septembertrans.0a47397b568d4725a4f6.png",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
@@ -23,6 +23,7 @@
     "static/media/floatinggirl.png": "/static/media/floatinggirl.8e8dc5de4348303912b8.png",
     "static/media/watercolormoon.png": "/static/media/watercolormoon.e25fbfe1e9c7cebb5cb7.png",
     "static/media/cartoonwitch.png": "/static/media/cartoonwitch.1f64028f48b08caecc87.png",
+    "static/media/yellowbike.png": "/static/media/yellowbike.26c0cf70ee01441875fa.png",
     "static/media/laydownmylife.jpg": "/static/media/laydownmylife.f6d1c33ffe322bec3eef.jpg",
     "static/media/floatingcat.png": "/static/media/floatingcat.bed3c0bd87b6391ad18d.png",
     "static/media/sparklystars.jpeg": "/static/media/sparklystars.e4b807d3a63296e39956.jpeg",
@@ -42,6 +43,7 @@
     "static/media/cartiwannagotopluto.png": "/static/media/cartiwannagotopluto.9f15895a4442e8a9a7fa.png",
     "static/media/shawty.jpg": "/static/media/shawty.0f7e86ad8e66f35779d5.jpg",
     "static/media/mistersun.png": "/static/media/mistersun.dcef1af42050ef12e678.png",
+    "static/media/Berkeley.png": "/static/media/Berkeley.84b202089d435e4d29e6.png",
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
     "static/media/iwannarockyourbody.png": "/static/media/iwannarockyourbody.20191619dc147a876bec.png",
@@ -64,11 +66,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.f27d487a.css.map": "/static/css/main.f27d487a.css.map",
-    "main.42716dca.js.map": "/static/js/main.42716dca.js.map"
+    "main.12a0dce6.css.map": "/static/css/main.12a0dce6.css.map",
+    "main.b82699c3.js.map": "/static/js/main.b82699c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f27d487a.css",
-    "static/js/main.42716dca.js"
+    "static/css/main.12a0dce6.css",
+    "static/js/main.b82699c3.js"
   ]
 }
