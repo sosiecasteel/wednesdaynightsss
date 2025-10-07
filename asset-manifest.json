@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.12a0dce6.css",
-    "main.js": "/static/js/main.b82699c3.js",
-    "static/media/septembertrans.png": "/static/media/septembertrans.0a47397b568d4725a4f6.png",
+    "main.css": "/static/css/main.71725c12.css",
+    "main.js": "/static/js/main.b9aca703.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
     "static/media/pureheroine.png": "/static/media/pureheroine.a9f8f98f33efe02850ff.png",
@@ -19,6 +18,7 @@
     "static/media/moonbeenhit.png": "/static/media/moonbeenhit.2b2c8729d36570928e2e.png",
     "static/media/crayonstars.jpg": "/static/media/crayonstars.9c919a236b977b697f91.jpg",
     "static/media/girlymoon.png": "/static/media/girlymoon.604b8d892fb4cc038c0a.png",
+    "static/media/nowonderyoucantsleep.jpg": "/static/media/nowonderyoucantsleep.b2be4c41d1709988315e.jpg",
     "static/media/kissingmoon.png": "/static/media/kissingmoon.6ad7e17aaa3801cb73c8.png",
     "static/media/floatinggirl.png": "/static/media/floatinggirl.8e8dc5de4348303912b8.png",
     "static/media/watercolormoon.png": "/static/media/watercolormoon.e25fbfe1e9c7cebb5cb7.png",
@@ -37,6 +37,7 @@
     "static/media/75degrees.png": "/static/media/75degrees.39379eaadca317f46179.png",
     "static/media/section80.jpg": "/static/media/section80.c400f34cb6b9ec81b134.jpg",
     "static/media/80degrees.png": "/static/media/80degrees.2d901b666949e9f669c3.png",
+    "static/media/DarkBlack.otf": "/static/media/DarkBlack.144666bc225e39a77fc4.otf",
     "static/media/articlesarticlesarticles.jpg": "/static/media/articlesarticlesarticles.1b128f37c60f579bcb18.jpg",
     "static/media/90degrees.png": "/static/media/90degrees.c3e2a6150468efd480b2.png",
     "static/media/85degrees.png": "/static/media/85degrees.03e77d28649481dccbc2.png",
@@ -66,11 +67,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.12a0dce6.css.map": "/static/css/main.12a0dce6.css.map",
-    "main.b82699c3.js.map": "/static/js/main.b82699c3.js.map"
+    "main.71725c12.css.map": "/static/css/main.71725c12.css.map",
+    "main.b9aca703.js.map": "/static/js/main.b9aca703.js.map"
   },
   "entrypoints": [
-    "static/css/main.12a0dce6.css",
-    "static/js/main.b82699c3.js"
+    "static/css/main.71725c12.css",
+    "static/js/main.b9aca703.js"
   ]
 }
