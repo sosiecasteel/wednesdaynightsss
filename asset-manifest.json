@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.71725c12.css",
+    "main.css": "/static/css/main.48e408c5.css",
     "main.js": "/static/js/main.b9aca703.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
@@ -67,11 +67,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.71725c12.css.map": "/static/css/main.71725c12.css.map",
+    "main.48e408c5.css.map": "/static/css/main.48e408c5.css.map",
     "main.b9aca703.js.map": "/static/js/main.b9aca703.js.map"
   },
   "entrypoints": [
-    "static/css/main.71725c12.css",
+    "static/css/main.48e408c5.css",
     "static/js/main.b9aca703.js"
   ]
 }
