@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a8eb24d.css",
-    "main.js": "/static/js/main.b319ad85.js",
+    "main.css": "/static/css/main.dc35e485.css",
+    "main.js": "/static/js/main.e4f3d3d4.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/pureheroine.png": "/static/media/pureheroine.a9f8f98f33efe02850ff.png",
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
@@ -12,6 +12,7 @@
     "static/media/huntsharvest.jpg": "/static/media/huntsharvest.b12bfe40e7fc3c5a76af.jpg",
     "static/media/shawtyinlove.mp3": "/static/media/shawtyinlove.ab88fb70378ad758476e.mp3",
     "static/media/rabbits.PNG": "/static/media/rabbits.2a6f11b5632b3c95bc1f.PNG",
+    "static/media/ripmeopen.png": "/static/media/ripmeopen.c495d89f4b9437f4a162.png",
     "static/media/moonbeenhit.png": "/static/media/moonbeenhit.2b2c8729d36570928e2e.png",
     "static/media/crayonstars.jpg": "/static/media/crayonstars.9c919a236b977b697f91.jpg",
     "static/media/girlymoon.png": "/static/media/girlymoon.604b8d892fb4cc038c0a.png",
@@ -64,11 +65,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.1a8eb24d.css.map": "/static/css/main.1a8eb24d.css.map",
-    "main.b319ad85.js.map": "/static/js/main.b319ad85.js.map"
+    "main.dc35e485.css.map": "/static/css/main.dc35e485.css.map",
+    "main.e4f3d3d4.js.map": "/static/js/main.e4f3d3d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a8eb24d.css",
-    "static/js/main.b319ad85.js"
+    "static/css/main.dc35e485.css",
+    "static/js/main.e4f3d3d4.js"
   ]
 }
