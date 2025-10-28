@@ -1,12 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.48e408c5.css",
-    "main.js": "/static/js/main.2dd35564.js",
+    "main.css": "/static/css/main.1a8eb24d.css",
+    "main.js": "/static/js/main.b319ad85.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
-    "static/media/fire2.jpg": "/static/media/fire2.1266f7d00f75e2c1664e.jpg",
     "static/media/pureheroine.png": "/static/media/pureheroine.a9f8f98f33efe02850ff.png",
-    "static/media/fire1.jpg": "/static/media/fire1.a1a34abee3505f4f5dd0.jpg",
-    "static/media/nevadacitylogo.png": "/static/media/nevadacitylogo.5486131d8f471c476ffb.png",
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
     "static/media/starbluenomoon.png": "/static/media/starbluenomoon.78e3a60a945c1d658552.png",
     "static/media/pumpkins.png": "/static/media/pumpkins.00c29e89864cc8b0f919.png",
@@ -67,11 +64,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.48e408c5.css.map": "/static/css/main.48e408c5.css.map",
-    "main.2dd35564.js.map": "/static/js/main.2dd35564.js.map"
+    "main.1a8eb24d.css.map": "/static/css/main.1a8eb24d.css.map",
+    "main.b319ad85.js.map": "/static/js/main.b319ad85.js.map"
   },
   "entrypoints": [
-    "static/css/main.48e408c5.css",
-    "static/js/main.2dd35564.js"
+    "static/css/main.1a8eb24d.css",
+    "static/js/main.b319ad85.js"
   ]
 }
