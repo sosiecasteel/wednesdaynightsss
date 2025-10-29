@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc35e485.css",
-    "main.js": "/static/js/main.62c8f575.js",
+    "main.css": "/static/css/main.e293c77b.css",
+    "main.js": "/static/js/main.b34d5d05.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/pureheroine.png": "/static/media/pureheroine.a9f8f98f33efe02850ff.png",
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
@@ -53,7 +53,6 @@
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
     "static/media/star.ttf": "/static/media/star.8462d4f41a91fd367fb3.ttf",
-    "static/media/jonasfreeman.png": "/static/media/jonasfreeman.196218f84f19923f9d4b.png",
     "static/media/octobercalendar.png": "/static/media/octobercalendar.f9774ce88f1a445099b2.png",
     "static/media/DJB It's Full of Stars.ttf": "/static/media/DJB It's Full of Stars.5a3f996620b2729f2b0d.ttf",
     "static/media/lonelyhouse.jpeg": "/static/media/lonelyhouse.075f5d714fa121c0b35a.jpeg",
@@ -65,11 +64,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.dc35e485.css.map": "/static/css/main.dc35e485.css.map",
-    "main.62c8f575.js.map": "/static/js/main.62c8f575.js.map"
+    "main.e293c77b.css.map": "/static/css/main.e293c77b.css.map",
+    "main.b34d5d05.js.map": "/static/js/main.b34d5d05.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc35e485.css",
-    "static/js/main.62c8f575.js"
+    "static/css/main.e293c77b.css",
+    "static/js/main.b34d5d05.js"
   ]
 }
