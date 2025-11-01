@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.79f47b07.css",
-    "main.js": "/static/js/main.116c6291.js",
+    "main.css": "/static/css/main.0c6821c7.css",
+    "main.js": "/static/js/main.f8d30692.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/starrypumpkin.png": "/static/media/starrypumpkin.3ecd8e4615cd14e50659.png",
     "static/media/pureheroine.png": "/static/media/pureheroine.a9f8f98f33efe02850ff.png",
@@ -48,6 +48,7 @@
     "static/media/iwannarockyourbody.png": "/static/media/iwannarockyourbody.20191619dc147a876bec.png",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
     "static/media/itstenpm.png": "/static/media/itstenpm.2a07f75992ee45c3b3c1.png",
+    "static/media/autumnstars.jpeg": "/static/media/autumnstars.f5bdc159a645e8903bf8.jpeg",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
     "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
@@ -64,11 +65,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.79f47b07.css.map": "/static/css/main.79f47b07.css.map",
-    "main.116c6291.js.map": "/static/js/main.116c6291.js.map"
+    "main.0c6821c7.css.map": "/static/css/main.0c6821c7.css.map",
+    "main.f8d30692.js.map": "/static/js/main.f8d30692.js.map"
   },
   "entrypoints": [
-    "static/css/main.79f47b07.css",
-    "static/js/main.116c6291.js"
+    "static/css/main.0c6821c7.css",
+    "static/js/main.f8d30692.js"
   ]
 }
