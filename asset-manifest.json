@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.11d74d24.css",
-    "main.js": "/static/js/main.17047c50.js",
+    "main.css": "/static/css/main.c8465b61.css",
+    "main.js": "/static/js/main.ece9285e.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
-    "static/media/Moonshadowmoonshadow.png": "/static/media/Moonshadowmoonshadow.58892ff1f3b9bc872192.png",
     "static/media/octopus.png": "/static/media/octopus.0feb63f8df728287c086.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
     "static/media/pureheroine.png": "/static/media/pureheroine.a9f8f98f33efe02850ff.png",
@@ -43,14 +42,23 @@
     "static/media/cartiwannagotopluto.png": "/static/media/cartiwannagotopluto.9f15895a4442e8a9a7fa.png",
     "static/media/universeourforest.jpeg": "/static/media/universeourforest.97b6546aa9d8eb577e54.jpeg",
     "static/media/shawty.jpg": "/static/media/shawty.0f7e86ad8e66f35779d5.jpg",
+    "static/media/secondmoon.png": "/static/media/secondmoon.8c5ea56219f0c8d2f54e.png",
     "static/media/mistersun.png": "/static/media/mistersun.dcef1af42050ef12e678.png",
+    "static/media/eighthmoon.png": "/static/media/eighthmoon.01b95ffa49208865fbe8.png",
+    "static/media/thirdmoon.png": "/static/media/thirdmoon.07e21e4ea73f09a5e29d.png",
+    "static/media/firstmoon.png": "/static/media/firstmoon.6e957f36eaad7a8aa8f8.png",
+    "static/media/seventhmoon.png": "/static/media/seventhmoon.c0de8409b2b6c70dbff0.png",
+    "static/media/sixthmoon.png": "/static/media/sixthmoon.618d08f44f466295a472.png",
+    "static/media/fourthmoon.png": "/static/media/fourthmoon.afc589ea5d1018827cf1.png",
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
+    "static/media/fifthmoon.png": "/static/media/fifthmoon.db95f18e5b2f8c47588c.png",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
     "static/media/iwannarockyourbody.png": "/static/media/iwannarockyourbody.20191619dc147a876bec.png",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
     "static/media/itstenpm.png": "/static/media/itstenpm.2a07f75992ee45c3b3c1.png",
     "static/media/autumnstars.jpeg": "/static/media/autumnstars.f5bdc159a645e8903bf8.jpeg",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
+    "static/media/newyear.otf": "/static/media/newyear.3fd51f10b1a7390a3523.otf",
     "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
@@ -66,11 +74,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.11d74d24.css.map": "/static/css/main.11d74d24.css.map",
-    "main.17047c50.js.map": "/static/js/main.17047c50.js.map"
+    "main.c8465b61.css.map": "/static/css/main.c8465b61.css.map",
+    "main.ece9285e.js.map": "/static/js/main.ece9285e.js.map"
   },
   "entrypoints": [
-    "static/css/main.11d74d24.css",
-    "static/js/main.17047c50.js"
+    "static/css/main.c8465b61.css",
+    "static/js/main.ece9285e.js"
   ]
 }
