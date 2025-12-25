@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8465b61.css",
-    "main.js": "/static/js/main.ece9285e.js",
+    "main.css": "/static/css/main.48a56d9f.css",
+    "main.js": "/static/js/main.cbe65e2d.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/octopus.png": "/static/media/octopus.0feb63f8df728287c086.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
@@ -32,6 +32,7 @@
     "static/media/sparklystars.jpeg": "/static/media/sparklystars.e4b807d3a63296e39956.jpeg",
     "static/media/indigostars.jpg": "/static/media/indigostars.83566ab24ae55f6324ec.jpg",
     "static/media/stringlightmoon.png": "/static/media/stringlightmoon.070e0eb36d1ad5359a36.png",
+    "static/media/SNOW BLUE.otf": "/static/media/SNOW BLUE.13b70f3bf6f90b880fc6.otf",
     "static/media/songbackground.jpg": "/static/media/songbackground.afa0b321f366ef0c88ce.jpg",
     "static/media/constellations.jpeg": "/static/media/constellations.76e7db266782de705952.jpeg",
     "static/media/greenstars.jpg": "/static/media/greenstars.f796b145b0779b0f199a.jpg",
@@ -43,7 +44,6 @@
     "static/media/universeourforest.jpeg": "/static/media/universeourforest.97b6546aa9d8eb577e54.jpeg",
     "static/media/shawty.jpg": "/static/media/shawty.0f7e86ad8e66f35779d5.jpg",
     "static/media/secondmoon.png": "/static/media/secondmoon.8c5ea56219f0c8d2f54e.png",
-    "static/media/mistersun.png": "/static/media/mistersun.dcef1af42050ef12e678.png",
     "static/media/eighthmoon.png": "/static/media/eighthmoon.01b95ffa49208865fbe8.png",
     "static/media/thirdmoon.png": "/static/media/thirdmoon.07e21e4ea73f09a5e29d.png",
     "static/media/firstmoon.png": "/static/media/firstmoon.6e957f36eaad7a8aa8f8.png",
@@ -74,11 +74,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.c8465b61.css.map": "/static/css/main.c8465b61.css.map",
-    "main.ece9285e.js.map": "/static/js/main.ece9285e.js.map"
+    "main.48a56d9f.css.map": "/static/css/main.48a56d9f.css.map",
+    "main.cbe65e2d.js.map": "/static/js/main.cbe65e2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8465b61.css",
-    "static/js/main.ece9285e.js"
+    "static/css/main.48a56d9f.css",
+    "static/js/main.cbe65e2d.js"
   ]
 }
