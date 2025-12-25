@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.48a56d9f.css",
-    "main.js": "/static/js/main.cbe65e2d.js",
+    "main.css": "/static/css/main.71e135fa.css",
+    "main.js": "/static/js/main.203022c2.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/octopus.png": "/static/media/octopus.0feb63f8df728287c086.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
-    "static/media/pureheroine.png": "/static/media/pureheroine.a9f8f98f33efe02850ff.png",
     "static/media/bulgogifries.png": "/static/media/bulgogifries.8f8cfb4b3d3800a40f4b.png",
     "static/media/nownownow.PNG": "/static/media/nownownow.c4ecec5822d2b9b3c3ae.PNG",
     "static/media/starbluenomoon.png": "/static/media/starbluenomoon.78e3a60a945c1d658552.png",
@@ -27,7 +26,6 @@
     "static/media/floatinggirl.png": "/static/media/floatinggirl.8e8dc5de4348303912b8.png",
     "static/media/watercolormoon.png": "/static/media/watercolormoon.e25fbfe1e9c7cebb5cb7.png",
     "static/media/cartoonwitch.png": "/static/media/cartoonwitch.1f64028f48b08caecc87.png",
-    "static/media/laydownmylife.jpg": "/static/media/laydownmylife.f6d1c33ffe322bec3eef.jpg",
     "static/media/floatingcat.png": "/static/media/floatingcat.bed3c0bd87b6391ad18d.png",
     "static/media/sparklystars.jpeg": "/static/media/sparklystars.e4b807d3a63296e39956.jpeg",
     "static/media/indigostars.jpg": "/static/media/indigostars.83566ab24ae55f6324ec.jpg",
@@ -37,7 +35,6 @@
     "static/media/constellations.jpeg": "/static/media/constellations.76e7db266782de705952.jpeg",
     "static/media/greenstars.jpg": "/static/media/greenstars.f796b145b0779b0f199a.jpg",
     "static/media/purplestars.jpeg": "/static/media/purplestars.4bc5bacf337a94bcec40.jpeg",
-    "static/media/section80.jpg": "/static/media/section80.c400f34cb6b9ec81b134.jpg",
     "static/media/DarkBlack.otf": "/static/media/DarkBlack.144666bc225e39a77fc4.otf",
     "static/media/articlesarticlesarticles.jpg": "/static/media/articlesarticlesarticles.1b128f37c60f579bcb18.jpg",
     "static/media/cartiwannagotopluto.png": "/static/media/cartiwannagotopluto.9f15895a4442e8a9a7fa.png",
@@ -53,12 +50,12 @@
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
     "static/media/fifthmoon.png": "/static/media/fifthmoon.db95f18e5b2f8c47588c.png",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
-    "static/media/iwannarockyourbody.png": "/static/media/iwannarockyourbody.20191619dc147a876bec.png",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
     "static/media/itstenpm.png": "/static/media/itstenpm.2a07f75992ee45c3b3c1.png",
     "static/media/autumnstars.jpeg": "/static/media/autumnstars.f5bdc159a645e8903bf8.jpeg",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
     "static/media/newyear.otf": "/static/media/newyear.3fd51f10b1a7390a3523.otf",
+    "static/media/ROSSTEN.ttf": "/static/media/ROSSTEN.1612b025ef86e763d996.ttf",
     "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
@@ -74,11 +71,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.48a56d9f.css.map": "/static/css/main.48a56d9f.css.map",
-    "main.cbe65e2d.js.map": "/static/js/main.cbe65e2d.js.map"
+    "main.71e135fa.css.map": "/static/css/main.71e135fa.css.map",
+    "main.203022c2.js.map": "/static/js/main.203022c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.48a56d9f.css",
-    "static/js/main.cbe65e2d.js"
+    "static/css/main.71e135fa.css",
+    "static/js/main.203022c2.js"
   ]
 }
