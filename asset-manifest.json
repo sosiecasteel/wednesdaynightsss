@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff8fe727.css",
-    "main.js": "/static/js/main.d1fba74f.js",
+    "main.css": "/static/css/main.626cec5a.css",
+    "main.js": "/static/js/main.c493c534.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/octopus.png": "/static/media/octopus.0feb63f8df728287c086.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
@@ -41,6 +41,7 @@
     "static/media/universeourforest.jpeg": "/static/media/universeourforest.97b6546aa9d8eb577e54.jpeg",
     "static/media/shawty.jpg": "/static/media/shawty.0f7e86ad8e66f35779d5.jpg",
     "static/media/secondmoon.png": "/static/media/secondmoon.8c5ea56219f0c8d2f54e.png",
+    "static/media/mistersun.png": "/static/media/mistersun.dcef1af42050ef12e678.png",
     "static/media/eighthmoon.png": "/static/media/eighthmoon.01b95ffa49208865fbe8.png",
     "static/media/thirdmoon.png": "/static/media/thirdmoon.07e21e4ea73f09a5e29d.png",
     "static/media/firstmoon.png": "/static/media/firstmoon.6e957f36eaad7a8aa8f8.png",
@@ -71,11 +72,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.ff8fe727.css.map": "/static/css/main.ff8fe727.css.map",
-    "main.d1fba74f.js.map": "/static/js/main.d1fba74f.js.map"
+    "main.626cec5a.css.map": "/static/css/main.626cec5a.css.map",
+    "main.c493c534.js.map": "/static/js/main.c493c534.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff8fe727.css",
-    "static/js/main.d1fba74f.js"
+    "static/css/main.626cec5a.css",
+    "static/js/main.c493c534.js"
   ]
 }
