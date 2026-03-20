@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa088d96.css",
-    "main.js": "/static/js/main.e0462d41.js",
+    "main.css": "/static/css/main.c33f468f.css",
+    "main.js": "/static/js/main.e26715a9.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/octopus.png": "/static/media/octopus.0feb63f8df728287c086.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
@@ -72,11 +72,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.fa088d96.css.map": "/static/css/main.fa088d96.css.map",
-    "main.e0462d41.js.map": "/static/js/main.e0462d41.js.map"
+    "main.c33f468f.css.map": "/static/css/main.c33f468f.css.map",
+    "main.e26715a9.js.map": "/static/js/main.e26715a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa088d96.css",
-    "static/js/main.e0462d41.js"
+    "static/css/main.c33f468f.css",
+    "static/js/main.e26715a9.js"
   ]
 }
