@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c33f468f.css",
-    "main.js": "/static/js/main.e26715a9.js",
+    "main.css": "/static/css/main.7d65f2e6.css",
+    "main.js": "/static/js/main.f80251fa.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/octopus.png": "/static/media/octopus.0feb63f8df728287c086.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
@@ -24,7 +24,6 @@
     "static/media/floatinggirl.png": "/static/media/floatinggirl.8e8dc5de4348303912b8.png",
     "static/media/watercolormoon.png": "/static/media/watercolormoon.e25fbfe1e9c7cebb5cb7.png",
     "static/media/cartoonwitch.png": "/static/media/cartoonwitch.1f64028f48b08caecc87.png",
-    "static/media/heartbutton.png": "/static/media/heartbutton.6b58be57238413b4b307.png",
     "static/media/floatingcat.png": "/static/media/floatingcat.bed3c0bd87b6391ad18d.png",
     "static/media/sparklystars.jpeg": "/static/media/sparklystars.e4b807d3a63296e39956.jpeg",
     "static/media/indigostars.jpg": "/static/media/indigostars.83566ab24ae55f6324ec.jpg",
@@ -55,6 +54,7 @@
     "static/media/autumnstars.jpeg": "/static/media/autumnstars.f5bdc159a645e8903bf8.jpeg",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
     "static/media/MagicSound.ttf": "/static/media/MagicSound.5f89dd192aabc617807e.ttf",
+    "static/media/KBLuckyClover.ttf": "/static/media/KBLuckyClover.0de8decb9c070ead1d63.ttf",
     "static/media/newyear.otf": "/static/media/newyear.3fd51f10b1a7390a3523.otf",
     "static/media/ROSSTEN.ttf": "/static/media/ROSSTEN.1612b025ef86e763d996.ttf",
     "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
@@ -72,11 +72,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.c33f468f.css.map": "/static/css/main.c33f468f.css.map",
-    "main.e26715a9.js.map": "/static/js/main.e26715a9.js.map"
+    "main.7d65f2e6.css.map": "/static/css/main.7d65f2e6.css.map",
+    "main.f80251fa.js.map": "/static/js/main.f80251fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.c33f468f.css",
-    "static/js/main.e26715a9.js"
+    "static/css/main.7d65f2e6.css",
+    "static/js/main.f80251fa.js"
   ]
 }
