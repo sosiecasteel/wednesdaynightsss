@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d65f2e6.css",
-    "main.js": "/static/js/main.f80251fa.js",
+    "main.css": "/static/css/main.a994a034.css",
+    "main.js": "/static/js/main.ed33a502.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
-    "static/media/octopus.png": "/static/media/octopus.0feb63f8df728287c086.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
     "static/media/bulgogifries.png": "/static/media/bulgogifries.8f8cfb4b3d3800a40f4b.png",
     "static/media/starbluenomoon.png": "/static/media/starbluenomoon.78e3a60a945c1d658552.png",
@@ -26,7 +25,6 @@
     "static/media/cartoonwitch.png": "/static/media/cartoonwitch.1f64028f48b08caecc87.png",
     "static/media/floatingcat.png": "/static/media/floatingcat.bed3c0bd87b6391ad18d.png",
     "static/media/sparklystars.jpeg": "/static/media/sparklystars.e4b807d3a63296e39956.jpeg",
-    "static/media/indigostars.jpg": "/static/media/indigostars.83566ab24ae55f6324ec.jpg",
     "static/media/stringlightmoon.png": "/static/media/stringlightmoon.070e0eb36d1ad5359a36.png",
     "static/media/SNOW BLUE.otf": "/static/media/SNOW BLUE.13b70f3bf6f90b880fc6.otf",
     "static/media/songbackground.jpg": "/static/media/songbackground.afa0b321f366ef0c88ce.jpg",
@@ -38,16 +36,8 @@
     "static/media/Zou.ttf": "/static/media/Zou.8ebd4cd5409a79284185.ttf",
     "static/media/cartiwannagotopluto.png": "/static/media/cartiwannagotopluto.9f15895a4442e8a9a7fa.png",
     "static/media/universeourforest.jpeg": "/static/media/universeourforest.97b6546aa9d8eb577e54.jpeg",
-    "static/media/secondmoon.png": "/static/media/secondmoon.8c5ea56219f0c8d2f54e.png",
     "static/media/mistersun.png": "/static/media/mistersun.dcef1af42050ef12e678.png",
-    "static/media/eighthmoon.png": "/static/media/eighthmoon.01b95ffa49208865fbe8.png",
-    "static/media/thirdmoon.png": "/static/media/thirdmoon.07e21e4ea73f09a5e29d.png",
-    "static/media/firstmoon.png": "/static/media/firstmoon.6e957f36eaad7a8aa8f8.png",
-    "static/media/seventhmoon.png": "/static/media/seventhmoon.c0de8409b2b6c70dbff0.png",
-    "static/media/sixthmoon.png": "/static/media/sixthmoon.618d08f44f466295a472.png",
-    "static/media/fourthmoon.png": "/static/media/fourthmoon.afc589ea5d1018827cf1.png",
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
-    "static/media/fifthmoon.png": "/static/media/fifthmoon.db95f18e5b2f8c47588c.png",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
     "static/media/itstenpm.png": "/static/media/itstenpm.2a07f75992ee45c3b3c1.png",
@@ -60,7 +50,7 @@
     "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
-    "static/media/Lunar Oatmeal.otf": "/static/media/Lunar Oatmeal.c4e84c40989cc84e4d57.otf",
+    "static/media/Goudy Mediaeval Regular.ttf": "/static/media/Goudy Mediaeval Regular.3001ee94e784062a368c.ttf",
     "static/media/star.ttf": "/static/media/star.8462d4f41a91fd367fb3.ttf",
     "static/media/DJB It's Full of Stars.ttf": "/static/media/DJB It's Full of Stars.5a3f996620b2729f2b0d.ttf",
     "static/media/lonelyhouse.jpeg": "/static/media/lonelyhouse.075f5d714fa121c0b35a.jpeg",
@@ -72,11 +62,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.7d65f2e6.css.map": "/static/css/main.7d65f2e6.css.map",
-    "main.f80251fa.js.map": "/static/js/main.f80251fa.js.map"
+    "main.a994a034.css.map": "/static/css/main.a994a034.css.map",
+    "main.ed33a502.js.map": "/static/js/main.ed33a502.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d65f2e6.css",
-    "static/js/main.f80251fa.js"
+    "static/css/main.a994a034.css",
+    "static/js/main.ed33a502.js"
   ]
 }
