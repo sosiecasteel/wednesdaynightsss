@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a994a034.css",
-    "main.js": "/static/js/main.ed33a502.js",
+    "main.css": "/static/css/main.5ed880d8.css",
+    "main.js": "/static/js/main.fd61d24d.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
     "static/media/bulgogifries.png": "/static/media/bulgogifries.8f8cfb4b3d3800a40f4b.png",
@@ -36,7 +36,6 @@
     "static/media/Zou.ttf": "/static/media/Zou.8ebd4cd5409a79284185.ttf",
     "static/media/cartiwannagotopluto.png": "/static/media/cartiwannagotopluto.9f15895a4442e8a9a7fa.png",
     "static/media/universeourforest.jpeg": "/static/media/universeourforest.97b6546aa9d8eb577e54.jpeg",
-    "static/media/mistersun.png": "/static/media/mistersun.dcef1af42050ef12e678.png",
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
@@ -62,11 +61,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.a994a034.css.map": "/static/css/main.a994a034.css.map",
-    "main.ed33a502.js.map": "/static/js/main.ed33a502.js.map"
+    "main.5ed880d8.css.map": "/static/css/main.5ed880d8.css.map",
+    "main.fd61d24d.js.map": "/static/js/main.fd61d24d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a994a034.css",
-    "static/js/main.ed33a502.js"
+    "static/css/main.5ed880d8.css",
+    "static/js/main.fd61d24d.js"
   ]
 }
