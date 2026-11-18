@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5508580f.css",
-    "main.js": "/static/js/main.31a105c9.js",
+    "main.css": "/static/css/main.b7a9b6f7.css",
+    "main.js": "/static/js/main.a5893bf7.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
     "static/media/bulgogifries.png": "/static/media/bulgogifries.8f8cfb4b3d3800a40f4b.png",
@@ -28,6 +28,7 @@
     "static/media/stringlightmoon.png": "/static/media/stringlightmoon.070e0eb36d1ad5359a36.png",
     "static/media/SNOW BLUE.otf": "/static/media/SNOW BLUE.13b70f3bf6f90b880fc6.otf",
     "static/media/songbackground.jpg": "/static/media/songbackground.afa0b321f366ef0c88ce.jpg",
+    "static/media/bluearrow.png": "/static/media/bluearrow.a0d503e8cc6e59ab85e6.png",
     "static/media/constellations.jpeg": "/static/media/constellations.76e7db266782de705952.jpeg",
     "static/media/greenstars.jpg": "/static/media/greenstars.f796b145b0779b0f199a.jpg",
     "static/media/purplestars.jpeg": "/static/media/purplestars.4bc5bacf337a94bcec40.jpeg",
@@ -61,11 +62,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.5508580f.css.map": "/static/css/main.5508580f.css.map",
-    "main.31a105c9.js.map": "/static/js/main.31a105c9.js.map"
+    "main.b7a9b6f7.css.map": "/static/css/main.b7a9b6f7.css.map",
+    "main.a5893bf7.js.map": "/static/js/main.a5893bf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.5508580f.css",
-    "static/js/main.31a105c9.js"
+    "static/css/main.b7a9b6f7.css",
+    "static/js/main.a5893bf7.js"
   ]
 }
