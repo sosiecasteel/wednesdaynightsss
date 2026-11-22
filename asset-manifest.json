@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7a9b6f7.css",
-    "main.js": "/static/js/main.a5893bf7.js",
+    "main.css": "/static/css/main.3cdc6120.css",
+    "main.js": "/static/js/main.85942d0b.js",
     "static/media/bikingfish.png": "/static/media/bikingfish.4c6643613fb99bd45475.png",
     "static/media/growwings.png": "/static/media/growwings.257430ec049d28c78583.png",
     "static/media/bulgogifries.png": "/static/media/bulgogifries.8f8cfb4b3d3800a40f4b.png",
@@ -13,6 +13,7 @@
     "static/media/firstbikeimage.jpg": "/static/media/firstbikeimage.6845d2f81f85eabbc373.jpg",
     "static/media/youaresofine.jpg": "/static/media/youaresofine.385144e865d2b5f43950.jpg",
     "static/media/huntsharvest.jpg": "/static/media/huntsharvest.b12bfe40e7fc3c5a76af.jpg",
+    "static/media/wakeup.png": "/static/media/wakeup.e7a69e4bc66fb54628b3.png",
     "static/media/rabbits.PNG": "/static/media/rabbits.2a6f11b5632b3c95bc1f.PNG",
     "static/media/mickeymouse.otf": "/static/media/mickeymouse.1538091ad60c0d84cca1.otf",
     "static/media/ripmeopen.png": "/static/media/ripmeopen.c495d89f4b9437f4a162.png",
@@ -40,6 +41,7 @@
     "static/media/multicolorstarscape.jpg": "/static/media/multicolorstarscape.53cb6f9bb4ad5b7b9c23.jpg",
     "static/media/pianooo.PNG": "/static/media/pianooo.18fec83b182fb4f2010a.PNG",
     "static/media/plastic.TTF": "/static/media/plastic.cc7d7beb21c092edf555.TTF",
+    "static/media/striped.jpg": "/static/media/striped.ac22f0522fa6a64d9ffd.jpg",
     "static/media/itstenpm.png": "/static/media/itstenpm.2a07f75992ee45c3b3c1.png",
     "static/media/autumnstars.jpeg": "/static/media/autumnstars.f5bdc159a645e8903bf8.jpeg",
     "static/media/yawningmoon.PNG": "/static/media/yawningmoon.bbbdfeba1fffcb4b6553.PNG",
@@ -47,7 +49,6 @@
     "static/media/KBLuckyClover.ttf": "/static/media/KBLuckyClover.0de8decb9c070ead1d63.ttf",
     "static/media/newyear.otf": "/static/media/newyear.3fd51f10b1a7390a3523.otf",
     "static/media/ROSSTEN.ttf": "/static/media/ROSSTEN.1612b025ef86e763d996.ttf",
-    "static/media/bluegingham.jpg": "/static/media/bluegingham.cd7e126627c53ee677d6.jpg",
     "static/media/Donaire.ttf": "/static/media/Donaire.5fa60f6d1ea29d4709b5.ttf",
     "static/media/star.PNG": "/static/media/star.0e244d91efe4327b2eb2.PNG",
     "static/media/Goudy Mediaeval Regular.ttf": "/static/media/Goudy Mediaeval Regular.3001ee94e784062a368c.ttf",
@@ -62,11 +63,11 @@
     "static/media/GameBox-Regular.ttf": "/static/media/GameBox-Regular.373e086bdc185f21914f.ttf",
     "static/media/Valty.otf": "/static/media/Valty.1fac2d1305e7c7c44751.otf",
     "index.html": "/index.html",
-    "main.b7a9b6f7.css.map": "/static/css/main.b7a9b6f7.css.map",
-    "main.a5893bf7.js.map": "/static/js/main.a5893bf7.js.map"
+    "main.3cdc6120.css.map": "/static/css/main.3cdc6120.css.map",
+    "main.85942d0b.js.map": "/static/js/main.85942d0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7a9b6f7.css",
-    "static/js/main.a5893bf7.js"
+    "static/css/main.3cdc6120.css",
+    "static/js/main.85942d0b.js"
   ]
 }
